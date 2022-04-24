@@ -7,7 +7,7 @@
 
 
 <div>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/802869070575828992/967624440055750707">
+ <img align="right" alt="baby-yoda" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/802869070575828992/967624440055750707">
 </div>
 
 <div> 
